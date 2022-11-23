@@ -1,0 +1,18 @@
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vmax auto;
+    box-sizing: border-box;
+}
+.star>div:last-child{
+    display: flex;
+    width: 95%;
+
+}
+.star img:hover{
+    box-shadow: 6px 6px 15px rgba(53,53,53,0.363);
+}
+.star img{
+    transition: all 0.3s ;
+}

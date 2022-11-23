@@ -1,0 +1,16 @@
+.HotAccessories{
+    display: flex;
+    justify-content: center;
+}
+.HotAccessoriesLink{
+    color: rgb(94,94,94);
+    margin: 1vmax;
+    text-decoration: none;
+    padding: 0.6vmax 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.HotAccessoriesLink:hover{
+    text-decoration: none;
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}
